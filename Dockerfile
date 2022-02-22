@@ -1,4 +1,4 @@
-FROM ghcr.io/gap-system/gap-docker-base:main
+FROM ghcr.io/gap-system/gap-docker-base:master
 
 ENV FILE_NAME newDirectory
 
